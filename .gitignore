@@ -16,3 +16,9 @@ __pycache__/
 .pytest_cache/
 venv/
 env/
+
+# Misc
+.downloads
+/downloads
+/training_data
+.training_data
