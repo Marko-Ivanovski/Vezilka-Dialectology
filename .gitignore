@@ -1,15 +1,46 @@
-# Main Notebook
-# Note: It should  be different for everyone
+# ===========================
+# Vezilka — .gitignore
+# ===========================
+
+# Main Notebook (local only)
 Youtube_downloader_mkd.ipynb
 
-# Code Editors
+# --- Audio & Video ---
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.opus
+*.flac
+*.ogg
+*.aac
+
+# --- Subtitles & Transcripts ---
+*.srt
+*.vtt
+*.ass
+*.sub
+
+# --- Training Data Files ---
+*.jsonl
+*.json
+metadata.json
+
+# --- Download/Training folders (legacy) ---
+/downloads/
+/training_data/
+.downloads
+.training_data
+
+# --- Code Editors ---
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Python
+# --- Python ---
 __pycache__/
 *.py[cod]
 *.pyc
@@ -17,8 +48,6 @@ __pycache__/
 venv/
 env/
 
-# Misc
-.downloads
-/downloads
-/training_data
-.training_data
+# --- OS ---
+.DS_Store
+Thumbs.db
