@@ -48,26 +48,30 @@
 | # | Наслов | Времетраење |
 |---|--------|-------------|
 
-### Неготински дијалект
+#### Неготински дијалект
 
 | # | Наслов | Времетраење |
 |---|--------|-------------|
 
 ### 2.2 Јужна Група
 
-### Гевгелиски дијалект
+#### Гевгелиски дијалект
 
 | # | Наслов | Времетраење |
 |---|--------|-------------|
+| 1 | Кои се последиците и траумите кои ги стекнав живеејќи со луѓе осудувачи и брзоуми?? | `00:08:07` |
+| 2 | КАКО ПОМИНАВ ВО ХРВАТСКА ОВАА СЕЗОНА (заработив премногу пари но...) | `00:20:04` |
+| 3 | Што сум згрешил толку, што ми се случува ова баш мене? ** | `00:18:09` |
+| 4 | КАКО МУЗИКАТА МОЖЕ ДА ВЛИЈАЕ НА ВАШЕТО РАСПОЛОЖЕНИЕ?! | `00:11:21` |
 
-### Валандовски дијалект
+#### Валандовски дијалект
 
 | # | Наслов | Времетраење |
 |---|--------|-------------|
 
 ### Сумирано јужно наречје
 
-Заедно од јужното наречје имаме вкупно: `00:00:00`
+Заедно од јужното наречје имаме вкупно: `00:57:41`
 
 ---
 
@@ -106,6 +110,18 @@
 | 1 | Sredno skolo: Realnosta zad mitovite Niz grad so Kiki S2Е1 💕💫✨ | `00:10:44` |
 | 2 | Toni Zen Niz grad so Kiki S1E30 💕💫✨ | `00:14:46` |
 | 3 | Ako sam ne si unishtis neshto, nikoj nema da ti unishti! - Luna Bejkov  | `00:46:37` |
+| 4 | ОВА сакаме за 2026та  | `01:16:27` |
+| 5 | Nisto ne e slucajno... Zarko Dimoski "Jubilarnio" | `02:54:31` |
+| 6 | Buvljak shema i gazenje od smea - Modernizam i Renesansa | `02:12:59` |
+| 7 | Toni Zen: Najdobar do sega | `01:30:04` |
+| 8 | SE' za Bubamara. Ranko na podcast | `02:12:32` |
+| 9 | Patikata mi e platno, Instagramot mi e galerija | `03:23:54` |
+| 10 | Е ОВА СЕ АТЛЕТИШТА! | `03:07:05` |
+| 11 | SVETSKO, A NASHE! - "Skopje '83" e NAJGOLEMATA IGRICA sto e 100% Makedonski proizvod | `01:49:00` |
+| 12 | Chovekot pozadi vicovite - Stefan Nikolovski OTKRIVA raboti za sebe - Bajkerot & Krosfiterot | `03:11:00` |
+| 13 | Deteto ne ti e proekt | `02:02:13` |
+| 14 | Chovekot pozadi vicovite - Stefan Nikolovski OTKRIVA raboti za sebe - Bajkerot & Krosfiterot | `03:36:33` |
+| 15 | Laktati: Sto? Kako? Zosto? | `02:32:02` |
 
 #### Тетовски дијалект
 
@@ -114,7 +130,7 @@
 
 ### Сумирано северно нарачје
 
-Заедно од северното наречје имаме вкупно: `03:30:01`
+Заедно од северното наречје имаме вкупно: `33:18:21`
 
 ---
 
@@ -137,7 +153,12 @@
 | 2 | YUGO - Dream Cast Maturanti 2025 - Bitola | `00:21:35` |
 | 3 | YUGO - Iva Krstevska Bakulev - Devojkata so palacinkite| `00:33:48` |
 | 4 | YUGO - Mimi Markovski - 2 godini YUGO | `00:34:29` |
-| 5 | МОЕ СЕЛО - Село Долно Српци со Перо Цаца (дел 2) | `00:29:50` |
+| 5 | YUGO - Darko Grozdanovski - Skopjanki me sakaat | `00:26:15` |
+| 6 | YUGO - Kiril Stojchevski - Profesorot | `00:33:53` |
+| 7 | YUGO - Pepi Pivceto - Na rodenden kaj Monika Beluci | `00:30:34` |
+| 8 | YUGO - Ognen od Janevci - Me zabrisha | `00:29:35` |
+| 9 | YUGO - Maja Dzordano - Delka zelka | `00:30:02` |
+| 10 | МОЕ СЕЛО - Село Долно Српци со Перо Цаца (дел 2) | `00:29:50` |
 
 #### Кичевско-поречки дијалект
 
@@ -160,6 +181,7 @@
 | # | Наслов | Времетраење |
 |---|--------|-------------|
 | 1 | OD MAKEDONIJA DO GERMANIJA: NAJTESKATA ODLUKA VO MOJOT ZIVOT? AUSLENDER PODCAST #1| `00:58:42` |
+| 2 | SKOPJANISHCA VO OHRID!! - PRISTIGNAJA AUSLENDERITE (MAKEDONIJA VLOG) | `00:45:22` |
 
 #### Струшки дијалект
 
@@ -189,10 +211,10 @@
 
 ### Сумирано западno наречје
 
-Заедно од западното наречје имаме вкупно: `08:33:55`
+Заедно од западното наречје имаме вкупно: `11:49:36`
 
 ---
 
 ## Сумирано
 
-Сумаризирано се, од делот со дијалектите имаме вкупно: `14:11:32`
+Сумаризирано се, од делот со дијалектите имаме вкупно: `48:13:14`
