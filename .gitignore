@@ -24,7 +24,7 @@ Youtube_downloader_mkd.ipynb
 
 # --- Training Data Files ---
 *.jsonl
-*.json
+training_data.jsonl
 metadata.json
 
 # --- Download/Training folders (legacy) ---
