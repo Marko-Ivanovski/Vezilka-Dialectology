@@ -1,0 +1,1191 @@
+[
+  {
+    "path": "dijalekti\\istochno-narechje\\centralna-grupa\\kochanski\\Да не се заборави Кочани： сведоштва за болката, трагедијата, солидарноста и надежта за правда",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 137,
+    "chunks_deleted": 28,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      26,
+      32,
+      41,
+      50,
+      51,
+      52,
+      66,
+      67,
+      78,
+      117,
+      118,
+      119,
+      134,
+      135,
+      136
+    ]
+  },
+  {
+    "path": "dijalekti\\istochno-narechje\\centralna-grupa\\shtipski\\МОЕ СЕЛО - Село Три Чешми со Перо Цаца (дел 1)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 55,
+    "chunks_deleted": 7,
+    "chunks_stripped": 46,
+    "deleted_indices": [
+      1,
+      2,
+      15,
+      20,
+      21,
+      35,
+      42
+    ]
+  },
+  {
+    "path": "dijalekti\\istochno-narechje\\centralna-grupa\\shtipski\\МОЕ СЕЛО - Село Три Чешми со Перо Цаца (дел 2)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 61,
+    "chunks_deleted": 4,
+    "chunks_stripped": 53,
+    "deleted_indices": [
+      1,
+      2,
+      11,
+      60
+    ]
+  },
+  {
+    "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\1. Кои се последиците и траумите кои ги стекнав живеејќи со луѓе осудувачи и брзоуми_",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 17,
+    "chunks_deleted": 0,
+    "chunks_stripped": 1,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\2. КАКО ПОМИНАВ ВО ХРВАТСКА ОВАА СЕЗОНА (заработив премногу пари но...)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 41,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\3. Што сум згрешил толку, што ми се случува ова баш мене_ _",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 37,
+    "chunks_deleted": 0,
+    "chunks_stripped": 1,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\4. КАКО МУЗИКАТА МОЖЕ ДА ВЛИЈАЕ НА ВАШЕТО РАСПОЛОЖЕНИЕ_!",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 23,
+    "chunks_deleted": 1,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      20
+    ]
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\istochna-grupa\\kumanovski\\video_kumanovski",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 218,
+    "chunks_deleted": 6,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      1,
+      2,
+      31,
+      183,
+      184,
+      217
+    ]
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\istochna-grupa\\ovchepolski\\МОЕ СЕЛО - Село Амзабегово со Перо Цаца (дел 1)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 2,
+    "chunks_stripped": 51,
+    "deleted_indices": [
+      2,
+      22
+    ]
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Ako ne gi investirate parite, GI GUBITE! Ivan Ivanovski ni OBJASNI SE",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 382,
+    "chunks_deleted": 0,
+    "chunks_stripped": 337,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Buvljak shema i gazenje od smea - Modernizam i Renesansa",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 266,
+    "chunks_deleted": 0,
+    "chunks_stripped": 264,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Chovekot pozadi vicovite - Stefan Nikolovski OTKRIVA raboti za sebe - Bajkerot & Krosfiterot",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 433,
+    "chunks_deleted": 0,
+    "chunks_stripped": 407,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Deteto ne ti e proekt",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 245,
+    "chunks_deleted": 3,
+    "chunks_stripped": 233,
+    "deleted_indices": [
+      1,
+      2,
+      244
+    ]
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Laktati_ Sto_ Kako_ Zosto_",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 304,
+    "chunks_deleted": 0,
+    "chunks_stripped": 292,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Nisto ne e slucajno... Zarko Dimoski _Jubilarnio_",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 350,
+    "chunks_deleted": 0,
+    "chunks_stripped": 338,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Niz grad so Kiki-Sredno skolo Realnosta zad mitovite",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 22,
+    "chunks_deleted": 0,
+    "chunks_stripped": 16,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Niz grad so Kiki-Toni Zen",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 30,
+    "chunks_deleted": 2,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      0,
+      29
+    ]
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\NUSTARZ-Luna Bejkov",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 94,
+    "chunks_deleted": 0,
+    "chunks_stripped": 90,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Patikata mi e platno, Instagramot mi e galerija",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 408,
+    "chunks_deleted": 0,
+    "chunks_stripped": 407,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\SE_ za Bubamara. Ranko na podcast",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 266,
+    "chunks_deleted": 0,
+    "chunks_stripped": 246,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\SVETSKO, A NASHE! - _Skopje _83_ e NAJGOLEMATA IGRICA sto e 100_ Makedonski proizvod",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 218,
+    "chunks_deleted": 0,
+    "chunks_stripped": 216,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Toni Zen_ Najdobar do sega",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 181,
+    "chunks_deleted": 0,
+    "chunks_stripped": 181,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Е ОВА СЕ АТЛЕТИШТА!",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 375,
+    "chunks_deleted": 0,
+    "chunks_stripped": 372,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\ОВА сакаме за 2026та",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 153,
+    "chunks_deleted": 0,
+    "chunks_stripped": 152,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Aneta Ljumakovska - Ke snima film",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 64,
+    "chunks_deleted": 0,
+    "chunks_stripped": 64,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Darko Grozdanovski - Skopjanki me sakaat",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 53,
+    "chunks_deleted": 0,
+    "chunks_stripped": 53,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Dream Cast Maturanti 2025 - Bitola",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 44,
+    "chunks_deleted": 5,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      33,
+      39,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Iva Krstevska Bakulev - Devojkata so palacinkite\\training_data",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 68,
+    "chunks_deleted": 0,
+    "chunks_stripped": 68,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Kiril Stojchevski - Profesorot",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 68,
+    "chunks_deleted": 0,
+    "chunks_stripped": 64,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Maja Dzordano - Delka zelka",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 61,
+    "chunks_deleted": 0,
+    "chunks_stripped": 60,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Mimi Markovski - 2 godini YUGO",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 69,
+    "chunks_deleted": 1,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      54
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Ognen od Janevci - Me zabrisha",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 60,
+    "chunks_deleted": 0,
+    "chunks_stripped": 58,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Pepi Pivceto - Na rodenden kaj Monika Beluci",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 62,
+    "chunks_deleted": 0,
+    "chunks_stripped": 62,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\МОЕ СЕЛО - Село Долно Српци со Перо Цаца (дел 2)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 13,
+    "chunks_stripped": 44,
+    "deleted_indices": [
+      0,
+      1,
+      2,
+      3,
+      10,
+      14,
+      18,
+      45,
+      46,
+      47,
+      50,
+      52,
+      58
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\kichevsko-porechki\\МОЕ СЕЛО - Село Цер со Перо Цаца (дел 1)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 7,
+    "chunks_stripped": 28,
+    "deleted_indices": [
+      0,
+      1,
+      3,
+      8,
+      9,
+      10,
+      49
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\kichevsko-porechki\\МОЕ СЕЛО - Село Цер со Перо Цаца (дел 2)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 62,
+    "chunks_deleted": 22,
+    "chunks_stripped": 37,
+    "deleted_indices": [
+      0,
+      14,
+      15,
+      16,
+      20,
+      21,
+      23,
+      24,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      40,
+      41,
+      55,
+      56,
+      59
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\prilepski\\Besiste_ The Forgotten Village of Mariovo",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 104,
+    "chunks_deleted": 103,
+    "chunks_stripped": 1,
+    "deleted_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\prilepski\\Село Присад",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 120,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\veleshki\\МОЕ СЕЛО - Село Теово со Перо Цаца (дел 1)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 2,
+    "chunks_stripped": 54,
+    "deleted_indices": [
+      56,
+      57
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\veleshki\\МОЕ СЕЛО - Село Теово со Перо Цаца (дел 2)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 58,
+    "chunks_deleted": 13,
+    "chunks_stripped": 43,
+    "deleted_indices": [
+      0,
+      1,
+      12,
+      13,
+      27,
+      33,
+      37,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\ohridski\\AUSLENDER PODCAST-od mk do germanija",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 118,
+    "chunks_deleted": 0,
+    "chunks_stripped": 109,
+    "deleted_indices": []
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\ohridski\\SKOPJANISHCA VO OHRID!! - PRISTIGNAJA AUSLENDERITE (MAKEDONIJA VLOG)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 91,
+    "chunks_deleted": 14,
+    "chunks_stripped": 76,
+    "deleted_indices": [
+      1,
+      9,
+      11,
+      28,
+      29,
+      63,
+      64,
+      65,
+      66,
+      67,
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  {
+    "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\strushki\\ПОСЛЕ ДОЛГО ВРЕМЕ ПАК ЛАЈВВВ",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 147,
+    "chunks_deleted": 12,
+    "chunks_stripped": 26,
+    "deleted_indices": [
+      46,
+      47,
+      48,
+      49,
+      51,
+      52,
+      53,
+      57,
+      58,
+      59,
+      116,
+      122
+    ]
+  },
+  {
+    "path": "literaturen\\podcast\\Marija vo Amerika E3-Kiril Mitoski",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 204,
+    "chunks_deleted": 0,
+    "chunks_stripped": 127,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\podcast\\Хемичарот кој доби „Инженерски прстен“ од државата, Кирил Христовски - ПМФ, Sitel Podcast 138",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 77,
+    "chunks_deleted": 0,
+    "chunks_stripped": 46,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\1. Собранието донесе уште пет закони во рамки на 92. Седница",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 8,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\10. Седница бр. 57 на Собрание на Р. Северна Македонија",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 338,
+    "chunks_deleted": 4,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      81,
+      82,
+      104,
+      337
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\11. Седница бр. 43 на Собрание на Р. Северна Македонија - Сала „Македонија“ 08.04.2025",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 317,
+    "chunks_deleted": 2,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      259,
+      270
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\12. Седница бр. 95 на Собрание на Р. Северна Македонија - Сала „Македонија“26.03.2026 - Дел 1",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 370,
+    "chunks_deleted": 0,
+    "chunks_stripped": 71,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\13. Седница бр. 95 на Собрание на Р. Северна Македонија - Сала „Македонија“26.03.2026 - Дел 2",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 335,
+    "chunks_deleted": 0,
+    "chunks_stripped": 42,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\14. Седница бр. 96 на Собрание на Р. Северна Македонија 31.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 28,
+    "chunks_deleted": 1,
+    "chunks_stripped": 1,
+    "deleted_indices": [
+      26
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\15. Седница бр. 94 на Собрание на Р. Северна Македонија - Сала „Македонија“ 18.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 270,
+    "chunks_deleted": 0,
+    "chunks_stripped": 50,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\16. Седница бр. 92 на Собрание на Р. Северна Македонија - Сала „Македонија“10.03.2026  - Дел 1",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 198,
+    "chunks_deleted": 0,
+    "chunks_stripped": 28,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\17. Седница бр. 92 на Собрание на Р. Северна Македонија - Сала „Македонија“10.03.2026  - Дел 2",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 137,
+    "chunks_deleted": 0,
+    "chunks_stripped": 15,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\18. Седница бр. 69 на Собрание на Р. Северна Македонија - Сала „Македонија“ 03.11.2025",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 45,
+    "chunks_deleted": 0,
+    "chunks_stripped": 2,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\19. Седница бр. 86 на Собрание на Р. Северна Македонија - Сала „Македонија“ 26.02.2026 - Дел 1",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 348,
+    "chunks_deleted": 0,
+    "chunks_stripped": 58,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\2. ЈАВНА РАСПРАВА, УПОТРЕБА НА ВЕШТАЧКА ИНТЕЛИГЕНЦИЈА ВО ЈАВНИОТ СЕКТОР",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 7,
+    "chunks_deleted": 0,
+    "chunks_stripped": 3,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\20. Седница бр. 86 на Собрание на Р. Северна Македонија - Сала „Македонија“ 26.02.2026 - Дел 2",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 161,
+    "chunks_deleted": 0,
+    "chunks_stripped": 28,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\21. Седница бр. 81 на Собрание на Р. Северна Македонија - Сала „Македонија“ 21.01.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 276,
+    "chunks_deleted": 0,
+    "chunks_stripped": 64,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\22. Седница бр. 52 на Собрание на Р. Северна Македонија",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 467,
+    "chunks_deleted": 5,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      124,
+      137,
+      139,
+      143,
+      465
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\23. Седница бр. 97 на Собрание на Р. Северна Македонија 08.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 477,
+    "chunks_deleted": 0,
+    "chunks_stripped": 80,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\24. Седница бр. 50 на Собрание на Р. Северна Македонија",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 199,
+    "chunks_deleted": 4,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      52,
+      63,
+      196,
+      197
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\25. Седница бр. 85 на Собрание на Р. Северна Македонија - Сала „Македонија“ 18.02.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 52,
+    "chunks_deleted": 0,
+    "chunks_stripped": 11,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\26. Седница бр. 55 на Собрание на Р. Северна Македонија",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 167,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\27. Седница бр. 48 на Собрание на Р. Северна Македонија",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 99,
+    "chunks_deleted": 1,
+    "chunks_stripped": 0,
+    "deleted_indices": [
+      14
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\28. Седница бр. 53 на Собрание на Р. Северна Македонија",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 165,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\3. Зајакнување на парламентарниот надзор преку зголемена соработка меѓу Собранието и ДЗР",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 9,
+    "chunks_deleted": 0,
+    "chunks_stripped": 4,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\4. Седница бр. 87 на Собрание на Р. Северна Македонија - Сала Македонија 05.03.2026 (longform 01_37_49)",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 153,
+    "chunks_deleted": 3,
+    "chunks_stripped": 15,
+    "deleted_indices": [
+      41,
+      110,
+      130
+    ]
+  },
+  {
+    "path": "literaturen\\sobranie\\5. СОБРАНИЕТО ДЕНЕСКА ЈА ОДРЖУВА 84.СЕДНИЦА",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 8,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\6. Седница бр. 90 на Собрание на Р. Северна Македонија - Сала „Македонија“04.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 340,
+    "chunks_deleted": 0,
+    "chunks_stripped": 61,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\7. Седница бр.71 на Собрание на Р.Северна Македонија (Пратенички прашања)-Сала „Македонија“ 27.11.2025  - Дел 1",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 305,
+    "chunks_deleted": 0,
+    "chunks_stripped": 44,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\sobranie\\9. Седница бр. 46 на Собрание на Р. Северна Македонија - Сала „Македонија“29.04.2025",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 255,
+    "chunks_deleted": 0,
+    "chunks_stripped": 0,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 14.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 56,
+    "chunks_deleted": 0,
+    "chunks_stripped": 30,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 17.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 52,
+    "chunks_deleted": 6,
+    "chunks_stripped": 25,
+    "deleted_indices": [
+      0,
+      1,
+      2,
+      15,
+      33,
+      49
+    ]
+  },
+  {
+    "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 18.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 60,
+    "chunks_deleted": 0,
+    "chunks_stripped": 22,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 20.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 46,
+    "chunks_deleted": 0,
+    "chunks_stripped": 18,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 21.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 53,
+    "chunks_deleted": 0,
+    "chunks_stripped": 28,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 09.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 2,
+    "chunks_stripped": 25,
+    "deleted_indices": [
+      1,
+      2
+    ]
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 10.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 61,
+    "chunks_deleted": 0,
+    "chunks_stripped": 32,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 10.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 51,
+    "chunks_deleted": 0,
+    "chunks_stripped": 34,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 11.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 60,
+    "chunks_deleted": 0,
+    "chunks_stripped": 35,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 12.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 53,
+    "chunks_deleted": 0,
+    "chunks_stripped": 29,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 13.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 52,
+    "chunks_deleted": 0,
+    "chunks_stripped": 23,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 14.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 37,
+    "chunks_deleted": 0,
+    "chunks_stripped": 18,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 14.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 31,
+    "chunks_deleted": 0,
+    "chunks_stripped": 18,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 15.03.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 37,
+    "chunks_deleted": 4,
+    "chunks_stripped": 19,
+    "deleted_indices": [
+      0,
+      1,
+      2,
+      26
+    ]
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 15.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 0,
+    "chunks_stripped": 35,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 16.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 51,
+    "chunks_deleted": 0,
+    "chunks_stripped": 26,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 18.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 42,
+    "chunks_deleted": 0,
+    "chunks_stripped": 22,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 19.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 37,
+    "chunks_deleted": 0,
+    "chunks_stripped": 23,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 20.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 47,
+    "chunks_deleted": 0,
+    "chunks_stripped": 27,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 21.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 50,
+    "chunks_deleted": 0,
+    "chunks_stripped": 28,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 22.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 59,
+    "chunks_deleted": 2,
+    "chunks_stripped": 29,
+    "deleted_indices": [
+      2,
+      23
+    ]
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 24.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 57,
+    "chunks_deleted": 2,
+    "chunks_stripped": 31,
+    "deleted_indices": [
+      1,
+      2
+    ]
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 25.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 42,
+    "chunks_deleted": 4,
+    "chunks_stripped": 16,
+    "deleted_indices": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 26.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 32,
+    "chunks_deleted": 0,
+    "chunks_stripped": 16,
+    "deleted_indices": []
+  },
+  {
+    "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 27.04.2026",
+    "skipped": false,
+    "skip_reason": "",
+    "chunks_before": 55,
+    "chunks_deleted": 0,
+    "chunks_stripped": 34,
+    "deleted_indices": []
+  }
+]

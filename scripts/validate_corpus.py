@@ -22,7 +22,7 @@ VALID_GOVORI = {
     "prespanski", "literaturen",
 }
 
-MIN_TEXT_LENGTH = 15
+MIN_TEXT_LENGTH = 10
 MIN_WAV_SIZE_BYTES = 5000
 SPEAKER_MARKER = ">>"
 

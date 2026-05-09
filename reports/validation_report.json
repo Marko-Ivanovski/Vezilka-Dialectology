@@ -1,0 +1,803 @@
+{
+  "summary": {
+    "videos_scanned": 97,
+    "total_chunks": 12553,
+    "passed": 84,
+    "failed": 13,
+    "total_issues": 16,
+    "issue_types": {
+      "TINY_AUDIO": 2,
+      "SHORT_TEXT": 14
+    }
+  },
+  "reports": [
+    {
+      "path": "dijalekti\\istochno-narechje\\centralna-grupa\\kochanski\\Да не се заборави Кочани： сведоштва за болката, трагедијата, солидарноста и надежта за правда",
+      "govor": "kochanski",
+      "total_chunks": 109,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\istochno-narechje\\centralna-grupa\\shtipski\\МОЕ СЕЛО - Село Три Чешми со Перо Цаца (дел 1)",
+      "govor": "shtipski",
+      "total_chunks": 48,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\istochno-narechje\\centralna-grupa\\shtipski\\МОЕ СЕЛО - Село Три Чешми со Перо Цаца (дел 2)",
+      "govor": "shtipski",
+      "total_chunks": 57,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\1. Кои се последиците и траумите кои ги стекнав живеејќи со луѓе осудувачи и брзоуми_",
+      "govor": "gevgeliski",
+      "total_chunks": 17,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\2. КАКО ПОМИНАВ ВО ХРВАТСКА ОВАА СЕЗОНА (заработив премногу пари но...)",
+      "govor": "gevgeliski",
+      "total_chunks": 41,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\3. Што сум згрешил толку, што ми се случува ова баш мене_ _",
+      "govor": "gevgeliski",
+      "total_chunks": 37,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\juzhno-narechje\\juzhna-grupa\\gevgeliski\\4. КАКО МУЗИКАТА МОЖЕ ДА ВЛИЈАЕ НА ВАШЕТО РАСПОЛОЖЕНИЕ_!",
+      "govor": "gevgeliski",
+      "total_chunks": 22,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\istochna-grupa\\kumanovski\\video_kumanovski",
+      "govor": "kumanovski",
+      "total_chunks": 212,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\istochna-grupa\\ovchepolski\\МОЕ СЕЛО - Село Амзабегово со Перо Цаца (дел 1)",
+      "govor": "ovchepolski",
+      "total_chunks": 57,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Ako ne gi investirate parite, GI GUBITE! Ivan Ivanovski ni OBJASNI SE",
+      "govor": "skopski",
+      "total_chunks": 382,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Buvljak shema i gazenje od smea - Modernizam i Renesansa",
+      "govor": "skopski",
+      "total_chunks": 266,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Chovekot pozadi vicovite - Stefan Nikolovski OTKRIVA raboti za sebe - Bajkerot & Krosfiterot",
+      "govor": "skopski",
+      "total_chunks": 433,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Deteto ne ti e proekt",
+      "govor": "skopski",
+      "total_chunks": 242,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Laktati_ Sto_ Kako_ Zosto_",
+      "govor": "skopski",
+      "total_chunks": 304,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Nisto ne e slucajno... Zarko Dimoski _Jubilarnio_",
+      "govor": "skopski",
+      "total_chunks": 349,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Niz grad so Kiki-Sredno skolo Realnosta zad mitovite",
+      "govor": "skopski",
+      "total_chunks": 22,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Niz grad so Kiki-Toni Zen",
+      "govor": "skopski",
+      "total_chunks": 28,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\NUSTARZ-Luna Bejkov",
+      "govor": "skopski",
+      "total_chunks": 94,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Patikata mi e platno, Instagramot mi e galerija",
+      "govor": "skopski",
+      "total_chunks": 408,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\SE_ za Bubamara. Ranko na podcast",
+      "govor": "skopski",
+      "total_chunks": 265,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\SVETSKO, A NASHE! - _Skopje _83_ e NAJGOLEMATA IGRICA sto e 100_ Makedonski proizvod",
+      "govor": "skopski",
+      "total_chunks": 218,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Toni Zen_ Najdobar do sega",
+      "govor": "skopski",
+      "total_chunks": 181,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\Е ОВА СЕ АТЛЕТИШТА!",
+      "govor": "skopski",
+      "total_chunks": 375,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\severno-narechje\\zapadna-grupa\\skopski\\ОВА сакаме за 2026та",
+      "govor": "skopski",
+      "total_chunks": 153,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Aneta Ljumakovska - Ke snima film",
+      "govor": "bitolski",
+      "total_chunks": 64,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Darko Grozdanovski - Skopjanki me sakaat",
+      "govor": "bitolski",
+      "total_chunks": 53,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Dream Cast Maturanti 2025 - Bitola",
+      "govor": "bitolski",
+      "total_chunks": 39,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Iva Krstevska Bakulev - Devojkata so palacinkite\\training_data",
+      "govor": "bitolski",
+      "total_chunks": 68,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Kiril Stojchevski - Profesorot",
+      "govor": "bitolski",
+      "total_chunks": 68,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Maja Dzordano - Delka zelka",
+      "govor": "bitolski",
+      "total_chunks": 61,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Mimi Markovski - 2 godini YUGO",
+      "govor": "bitolski",
+      "total_chunks": 68,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Ognen od Janevci - Me zabrisha",
+      "govor": "bitolski",
+      "total_chunks": 60,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Pepi Pivceto - Na rodenden kaj Monika Beluci",
+      "govor": "bitolski",
+      "total_chunks": 62,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\МОЕ СЕЛО - Село Долно Српци со Перо Цаца (дел 2)",
+      "govor": "bitolski",
+      "total_chunks": 46,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\kichevsko-porechki\\МОЕ СЕЛО - Село Цер со Перо Цаца (дел 1)",
+      "govor": "kichevsko-porechki",
+      "total_chunks": 52,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\kichevsko-porechki\\МОЕ СЕЛО - Село Цер со Перо Цаца (дел 2)",
+      "govor": "kichevsko-porechki",
+      "total_chunks": 40,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\prilepski\\Besiste_ The Forgotten Village of Mariovo",
+      "govor": "prilepski",
+      "total_chunks": 1,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\prilepski\\Село Присад",
+      "govor": "prilepski",
+      "total_chunks": 118,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\veleshki\\МОЕ СЕЛО - Село Теово со Перо Цаца (дел 1)",
+      "govor": "veleshki",
+      "total_chunks": 57,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\veleshki\\МОЕ СЕЛО - Село Теово со Перо Цаца (дел 2)",
+      "govor": "veleshki",
+      "total_chunks": 45,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 44,
+          "audio_file": "chunk_0057.wav",
+          "issue": "TINY_AUDIO",
+          "detail": "Only 782 bytes (likely silence/corrupt)"
+        },
+        {
+          "chunk_index": 44,
+          "audio_file": "chunk_0057.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: 'am'"
+        }
+      ]
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\ohridski\\AUSLENDER PODCAST-od mk do germanija",
+      "govor": "ohridski",
+      "total_chunks": 118,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\ohridski\\SKOPJANISHCA VO OHRID!! - PRISTIGNAJA AUSLENDERITE (MAKEDONIJA VLOG)",
+      "govor": "ohridski",
+      "total_chunks": 77,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\strushki\\ПОСЛЕ ДОЛГО ВРЕМЕ ПАК ЛАЈВВВ",
+      "govor": "strushki",
+      "total_chunks": 135,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 124,
+          "audio_file": "chunk_0136.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '10'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\podcast\\Marija vo Amerika E3-Kiril Mitoski",
+      "govor": "literaturen",
+      "total_chunks": 204,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\podcast\\Хемичарот кој доби „Инженерски прстен“ од државата, Кирил Христовски - ПМФ, Sitel Podcast 138",
+      "govor": "literaturen",
+      "total_chunks": 77,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\1. Собранието донесе уште пет закони во рамки на 92. Седница",
+      "govor": "literaturen",
+      "total_chunks": 8,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\10. Седница бр. 57 на Собрание на Р. Северна Македонија",
+      "govor": "literaturen",
+      "total_chunks": 334,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\11. Седница бр. 43 на Собрание на Р. Северна Македонија - Сала „Македонија“ 08.04.2025",
+      "govor": "literaturen",
+      "total_chunks": 315,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\12. Седница бр. 95 на Собрание на Р. Северна Македонија - Сала „Македонија“26.03.2026 - Дел 1",
+      "govor": "literaturen",
+      "total_chunks": 357,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 0,
+          "audio_file": "chunk_0000.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '97'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\13. Седница бр. 95 на Собрание на Р. Северна Македонија - Сала „Македонија“26.03.2026 - Дел 2",
+      "govor": "literaturen",
+      "total_chunks": 335,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\14. Седница бр. 96 на Собрание на Р. Северна Македонија 31.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 27,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 0,
+          "audio_file": "chunk_0000.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 3 chars: 'Сум'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\15. Седница бр. 94 на Собрание на Р. Северна Македонија - Сала „Македонија“ 18.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 270,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\16. Седница бр. 92 на Собрание на Р. Северна Македонија - Сала „Македонија“10.03.2026  - Дел 1",
+      "govor": "literaturen",
+      "total_chunks": 198,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 46,
+          "audio_file": "chunk_0046.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 5 chars: 'Имате'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\17. Седница бр. 92 на Собрание на Р. Северна Македонија - Сала „Македонија“10.03.2026  - Дел 2",
+      "govor": "literaturen",
+      "total_chunks": 137,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 2,
+          "audio_file": "chunk_0002.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '14'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\18. Седница бр. 69 на Собрание на Р. Северна Македонија - Сала „Македонија“ 03.11.2025",
+      "govor": "literaturen",
+      "total_chunks": 45,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\19. Седница бр. 86 на Собрание на Р. Северна Македонија - Сала „Македонија“ 26.02.2026 - Дел 1",
+      "govor": "literaturen",
+      "total_chunks": 348,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 347,
+          "audio_file": "chunk_0347.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '15'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\2. ЈАВНА РАСПРАВА, УПОТРЕБА НА ВЕШТАЧКА ИНТЕЛИГЕНЦИЈА ВО ЈАВНИОТ СЕКТОР",
+      "govor": "literaturen",
+      "total_chunks": 7,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\20. Седница бр. 86 на Собрание на Р. Северна Македонија - Сала „Македонија“ 26.02.2026 - Дел 2",
+      "govor": "literaturen",
+      "total_chunks": 161,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 0,
+          "audio_file": "chunk_0000.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '14'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\21. Седница бр. 81 на Собрание на Р. Северна Македонија - Сала „Македонија“ 21.01.2026",
+      "govor": "literaturen",
+      "total_chunks": 276,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\22. Седница бр. 52 на Собрание на Р. Северна Македонија",
+      "govor": "literaturen",
+      "total_chunks": 462,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 461,
+          "audio_file": "chunk_0466.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 1 chars: 'H'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\23. Седница бр. 97 на Собрание на Р. Северна Македонија 08.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 477,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\24. Седница бр. 50 на Собрание на Р. Северна Македонија",
+      "govor": "literaturen",
+      "total_chunks": 195,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\25. Седница бр. 85 на Собрание на Р. Северна Македонија - Сала „Македонија“ 18.02.2026",
+      "govor": "literaturen",
+      "total_chunks": 52,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\26. Седница бр. 55 на Собрание на Р. Северна Македонија",
+      "govor": "literaturen",
+      "total_chunks": 167,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\27. Седница бр. 48 на Собрание на Р. Северна Македонија",
+      "govor": "literaturen",
+      "total_chunks": 98,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\28. Седница бр. 53 на Собрание на Р. Северна Македонија",
+      "govor": "literaturen",
+      "total_chunks": 165,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\3. Зајакнување на парламентарниот надзор преку зголемена соработка меѓу Собранието и ДЗР",
+      "govor": "literaturen",
+      "total_chunks": 9,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\4. Седница бр. 87 на Собрание на Р. Северна Македонија - Сала Македонија 05.03.2026 (longform 01_37_49)",
+      "govor": "literaturen",
+      "total_chunks": 150,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 0,
+          "audio_file": "chunk_0000.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 1 chars: '6'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\5. СОБРАНИЕТО ДЕНЕСКА ЈА ОДРЖУВА 84.СЕДНИЦА",
+      "govor": "literaturen",
+      "total_chunks": 8,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\6. Седница бр. 90 на Собрание на Р. Северна Македонија - Сала „Македонија“04.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 340,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 251,
+          "audio_file": "chunk_0251.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '98'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\sobranie\\7. Седница бр.71 на Собрание на Р.Северна Македонија (Пратенички прашања)-Сала „Македонија“ 27.11.2025  - Дел 1",
+      "govor": "literaturen",
+      "total_chunks": 305,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\sobranie\\9. Седница бр. 46 на Собрание на Р. Северна Македонија - Сала „Македонија“29.04.2025",
+      "govor": "literaturen",
+      "total_chunks": 255,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 252,
+          "audio_file": "chunk_0252.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 2 chars: '19'"
+        },
+        {
+          "chunk_index": 253,
+          "audio_file": "chunk_0253.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 1 chars: '8'"
+        },
+        {
+          "chunk_index": 254,
+          "audio_file": "chunk_0254.wav",
+          "issue": "SHORT_TEXT",
+          "detail": "Only 1 chars: '8'"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 14.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 56,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 17.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 46,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 18.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 60,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 20.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 46,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 21.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 53,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 09.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 57,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 10.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 61,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 10.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 51,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 11.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 60,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 12.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 53,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 13.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 52,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 14.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 37,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 14.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 31,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 15.03.2026",
+      "govor": "literaturen",
+      "total_chunks": 33,
+      "passed": false,
+      "issues": [
+        {
+          "chunk_index": 32,
+          "audio_file": "chunk_0036.wav",
+          "issue": "TINY_AUDIO",
+          "detail": "Only 3470 bytes (likely silence/corrupt)"
+        }
+      ]
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 15.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 59,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 16.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 51,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 18.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 42,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 19.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 37,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 20.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 47,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 21.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 50,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 22.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 57,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 24.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 55,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 25.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 38,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 26.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 32,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 27.04.2026",
+      "govor": "literaturen",
+      "total_chunks": 55,
+      "passed": true,
+      "issues": []
+    }
+  ]
+}
