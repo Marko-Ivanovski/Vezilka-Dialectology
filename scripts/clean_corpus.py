@@ -16,6 +16,8 @@ REPORTS_DIR = Path(__file__).parent.parent / "reports"
 
 SPEAKER_MARKER = ">>"
 MUSIC_INDICATORS = ["[музика]", "[music]", "♪", "♫", "[аплауз]", "[applause]"]
+MIN_TEXT_LENGTH = 10
+MIN_WAV_SIZE_BYTES = 5000
 
 
 def strip_markers(text: str) -> str:
@@ -34,6 +36,8 @@ def classify_chunk(text: str) -> tuple[str, str]:
         return "DELETE", text
     cleaned = strip_markers(text)
     if not cleaned:
+        return "DELETE", cleaned
+    if len(cleaned) < MIN_TEXT_LENGTH:
         return "DELETE", cleaned
     return "KEEP", cleaned
 
@@ -112,7 +116,16 @@ def process_video_dir(video_dir: Path, apply: bool) -> DirResult:
     new_meta_chunks = []
     new_jsonl_lines = []
 
+    audio_dir = video_dir / "audio"
     for i, (mc, jl) in enumerate(zip(meta_chunks, jsonl)):
+        audio_file = mc.get("audio_file", "")
+        if audio_file:
+            wav_path = audio_dir / audio_file
+            if wav_path.exists() and wav_path.stat().st_size < MIN_WAV_SIZE_BYTES:
+                result.chunks_deleted += 1
+                result.deleted_indices.append(i)
+                continue
+
         text = mc.get("text", "")
         decision, cleaned = classify_chunk(text)
 

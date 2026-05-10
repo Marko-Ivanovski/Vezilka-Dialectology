@@ -1,14 +1,11 @@
 {
   "summary": {
-    "videos_scanned": 97,
-    "total_chunks": 12553,
-    "passed": 84,
-    "failed": 13,
-    "total_issues": 16,
-    "issue_types": {
-      "TINY_AUDIO": 2,
-      "SHORT_TEXT": 14
-    }
+    "videos_scanned": 98,
+    "total_chunks": 12864,
+    "passed": 98,
+    "failed": 0,
+    "total_issues": 0,
+    "issue_types": {}
   },
   "reports": [
     {
@@ -201,7 +198,7 @@
       "issues": []
     },
     {
-      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Iva Krstevska Bakulev - Devojkata so palacinkite\\training_data",
+      "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\bitolski\\YUGO - Iva Krstevska Bakulev - Devojkata so palacinkite",
       "govor": "bitolski",
       "total_chunks": 68,
       "passed": true,
@@ -287,22 +284,9 @@
     {
       "path": "dijalekti\\zapadno-narechje\\centralna-grupa\\veleshki\\МОЕ СЕЛО - Село Теово со Перо Цаца (дел 2)",
       "govor": "veleshki",
-      "total_chunks": 45,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 44,
-          "audio_file": "chunk_0057.wav",
-          "issue": "TINY_AUDIO",
-          "detail": "Only 782 bytes (likely silence/corrupt)"
-        },
-        {
-          "chunk_index": 44,
-          "audio_file": "chunk_0057.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: 'am'"
-        }
-      ]
+      "total_chunks": 44,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\ohridski\\AUSLENDER PODCAST-od mk do germanija",
@@ -321,16 +305,9 @@
     {
       "path": "dijalekti\\zapadno-narechje\\zapadna-grupa\\strushki\\ПОСЛЕ ДОЛГО ВРЕМЕ ПАК ЛАЈВВВ",
       "govor": "strushki",
-      "total_chunks": 135,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 124,
-          "audio_file": "chunk_0136.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '10'"
-        }
-      ]
+      "total_chunks": 134,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\podcast\\Marija vo Amerika E3-Kiril Mitoski",
@@ -370,16 +347,9 @@
     {
       "path": "literaturen\\sobranie\\12. Седница бр. 95 на Собрание на Р. Северна Македонија - Сала „Македонија“26.03.2026 - Дел 1",
       "govor": "literaturen",
-      "total_chunks": 357,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 0,
-          "audio_file": "chunk_0000.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '97'"
-        }
-      ]
+      "total_chunks": 356,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\13. Седница бр. 95 на Собрание на Р. Северна Македонија - Сала „Македонија“26.03.2026 - Дел 2",
@@ -391,16 +361,9 @@
     {
       "path": "literaturen\\sobranie\\14. Седница бр. 96 на Собрание на Р. Северна Македонија 31.03.2026",
       "govor": "literaturen",
-      "total_chunks": 27,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 0,
-          "audio_file": "chunk_0000.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 3 chars: 'Сум'"
-        }
-      ]
+      "total_chunks": 26,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\15. Седница бр. 94 на Собрание на Р. Северна Македонија - Сала „Македонија“ 18.03.2026",
@@ -412,30 +375,16 @@
     {
       "path": "literaturen\\sobranie\\16. Седница бр. 92 на Собрание на Р. Северна Македонија - Сала „Македонија“10.03.2026  - Дел 1",
       "govor": "literaturen",
-      "total_chunks": 198,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 46,
-          "audio_file": "chunk_0046.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 5 chars: 'Имате'"
-        }
-      ]
+      "total_chunks": 197,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\17. Седница бр. 92 на Собрание на Р. Северна Македонија - Сала „Македонија“10.03.2026  - Дел 2",
       "govor": "literaturen",
-      "total_chunks": 137,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 2,
-          "audio_file": "chunk_0002.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '14'"
-        }
-      ]
+      "total_chunks": 136,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\18. Седница бр. 69 на Собрание на Р. Северна Македонија - Сала „Македонија“ 03.11.2025",
@@ -447,16 +396,9 @@
     {
       "path": "literaturen\\sobranie\\19. Седница бр. 86 на Собрание на Р. Северна Македонија - Сала „Македонија“ 26.02.2026 - Дел 1",
       "govor": "literaturen",
-      "total_chunks": 348,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 347,
-          "audio_file": "chunk_0347.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '15'"
-        }
-      ]
+      "total_chunks": 347,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\2. ЈАВНА РАСПРАВА, УПОТРЕБА НА ВЕШТАЧКА ИНТЕЛИГЕНЦИЈА ВО ЈАВНИОТ СЕКТОР",
@@ -468,16 +410,9 @@
     {
       "path": "literaturen\\sobranie\\20. Седница бр. 86 на Собрание на Р. Северна Македонија - Сала „Македонија“ 26.02.2026 - Дел 2",
       "govor": "literaturen",
-      "total_chunks": 161,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 0,
-          "audio_file": "chunk_0000.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '14'"
-        }
-      ]
+      "total_chunks": 160,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\21. Седница бр. 81 на Собрание на Р. Северна Македонија - Сала „Македонија“ 21.01.2026",
@@ -489,16 +424,9 @@
     {
       "path": "literaturen\\sobranie\\22. Седница бр. 52 на Собрание на Р. Северна Македонија",
       "govor": "literaturen",
-      "total_chunks": 462,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 461,
-          "audio_file": "chunk_0466.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 1 chars: 'H'"
-        }
-      ]
+      "total_chunks": 461,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\23. Седница бр. 97 на Собрание на Р. Северна Македонија 08.04.2026",
@@ -552,16 +480,9 @@
     {
       "path": "literaturen\\sobranie\\4. Седница бр. 87 на Собрание на Р. Северна Македонија - Сала Македонија 05.03.2026 (longform 01_37_49)",
       "govor": "literaturen",
-      "total_chunks": 150,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 0,
-          "audio_file": "chunk_0000.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 1 chars: '6'"
-        }
-      ]
+      "total_chunks": 149,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\5. СОБРАНИЕТО ДЕНЕСКА ЈА ОДРЖУВА 84.СЕДНИЦА",
@@ -573,16 +494,9 @@
     {
       "path": "literaturen\\sobranie\\6. Седница бр. 90 на Собрание на Р. Северна Македонија - Сала „Македонија“04.03.2026",
       "govor": "literaturen",
-      "total_chunks": 340,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 251,
-          "audio_file": "chunk_0251.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '98'"
-        }
-      ]
+      "total_chunks": 339,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\sobranie\\7. Седница бр.71 на Собрание на Р.Северна Македонија (Пратенички прашања)-Сала „Македонија“ 27.11.2025  - Дел 1",
@@ -592,30 +506,18 @@
       "issues": []
     },
     {
+      "path": "literaturen\\sobranie\\8. Седница бр.71 на Собрание на Р.Северна Македонија (Пратенички прашања)-Сала „Македонија“ 27.11.2025  - Дел 2",
+      "govor": "literaturen",
+      "total_chunks": 326,
+      "passed": true,
+      "issues": []
+    },
+    {
       "path": "literaturen\\sobranie\\9. Седница бр. 46 на Собрание на Р. Северна Македонија - Сала „Македонија“29.04.2025",
       "govor": "literaturen",
-      "total_chunks": 255,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 252,
-          "audio_file": "chunk_0252.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 2 chars: '19'"
-        },
-        {
-          "chunk_index": 253,
-          "audio_file": "chunk_0253.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 1 chars: '8'"
-        },
-        {
-          "chunk_index": 254,
-          "audio_file": "chunk_0254.wav",
-          "issue": "SHORT_TEXT",
-          "detail": "Only 1 chars: '8'"
-        }
-      ]
+      "total_chunks": 252,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\vesti\\Вести во 16_00 на Сител Телевизија, 14.03.2026",
@@ -711,16 +613,9 @@
     {
       "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 15.03.2026",
       "govor": "literaturen",
-      "total_chunks": 33,
-      "passed": false,
-      "issues": [
-        {
-          "chunk_index": 32,
-          "audio_file": "chunk_0036.wav",
-          "issue": "TINY_AUDIO",
-          "detail": "Only 3470 bytes (likely silence/corrupt)"
-        }
-      ]
+      "total_chunks": 32,
+      "passed": true,
+      "issues": []
     },
     {
       "path": "literaturen\\vesti\\Вести на Канал 5 во 18, 15.04.2026",
