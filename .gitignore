@@ -32,7 +32,7 @@ metadata.json
 /training_data/
 .downloads
 .training_data
-/reports
+/reports/alignment_cache
 
 # --- Code Editors ---
 .vscode/

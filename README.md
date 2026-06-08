@@ -6,25 +6,37 @@
 
 ## Структура
 
-```markdown
-govori/
-├── literaturen/
-│   ├── sobranie/
-│   ├── vesti/
-│   └── podcast/
-└── dijalekti/
-    ├── istochno-narechje/
-    │   ├── centralna-grupa/
-    │   └── istochna-grupa/
-    ├── juzhno-narechje/
-    │   ├── centralna-grupa/
-    │   └── juzhna-grupa/
-    ├── severno-narechje/
-    │   ├── istochna-grupa/
-    │   └── zapadna-grupa/
-    └── zapadno-narechje/
-        ├── centralna-grupa/
-        └── zapadna-grupa/
+```
+vezilka/
+├── govori/
+│   ├── literaturen/
+│   │   ├── sobranie/
+│   │   ├── vesti/
+│   │   └── podcast/
+│   └── dijalekti/
+│       ├── istochno-narechje/
+│       ├── juzhno-narechje/
+│       ├── severno-narechje/
+│       └── zapadno-narechje/
+├── scripts/
+│   ├── validate_corpus.py
+│   ├── clean_corpus.py
+│   ├── ocr_captions_mk.ipynb
+│   ├── whisper_evaluation.ipynb
+│   └── fix_chunk_alignment.py
+└── reports/
+```
+
+Секое видео е организирано во своја папка со следната структура:
+
+```
+<видео наслов>/
+├── audio/
+│   ├── chunk_0000.wav
+│   ├── chunk_0001.wav
+│   └── ...
+├── metadata.json
+└── training_data.jsonl
 ```
 
 ---
